@@ -1,0 +1,26 @@
+body{background-image: url(WhatsAppImage.jpeg);}
+h1{color:#42281e ;}
+h2{color: #42281e;}
+h3{color: #42281e;}
+p{color: #2e150c;}
+
+
+  
+  .link-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .sidebar a {
+    color:  #42281e;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 15px;
+  }
+  
+  .sidebar a:hover {
+    text-decoration: underline ;
+  }
